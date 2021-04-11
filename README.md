@@ -1,2 +1,3 @@
 # WEB-BAIRROS-E-COMMERCE
 (Cadastramento de Lojas, Supermercados, Material de Construção e todas empresas)  Aplicação:(Nível de Bairros) bairros de Periferia ou Bairros Comunidades de grande porte -  banco de COMÉRCIOS LOCAIS objetivo: Criar acesso de Vendas on-line (considerando pandemia e comércios fechados). Criação de MAPA LOCAL aonde o usuário escolhe o local, se posiciona, tem suas preferências, rotas e outros.  Público: Todos os consumidores de todos os produtos de um determinado bairro, aonde poderão ter acesso, postar informações, Marketings avulsos, venda de produtos, Trocas e Permutas, Alugueis, Mão de Obra e outros. Data da Reunião:  02-04-2021 (somente esboço da ideia) Proposta: JUNIOR
+![Alt Text](download.png)
